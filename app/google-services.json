@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014277370726",
+    "firebase_url": "https://proyecto4-c87ad-default-rtdb.firebaseio.com",
+    "project_id": "proyecto4-c87ad",
+    "storage_bucket": "proyecto4-c87ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014277370726:android:205c1a64dda08f366b0ea7",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.dsm.guia3.guia4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014277370726-uopv2ucal29cgjv1mphhk5tbvvurunem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUICJDy5i9qshUS573jt3GZd7Vr13Rk2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014277370726-uopv2ucal29cgjv1mphhk5tbvvurunem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
